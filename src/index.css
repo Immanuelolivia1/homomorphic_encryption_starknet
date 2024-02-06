@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* .navigationLinks li {
+  @apply box-border;
+} */
+
+button {
+  cursor: pointer;
+}
+
+.navigationLinks a {
+  @apply transition-all duration-300 ease-out hover:border-b-darkPrimary hover:text-white hover:font-semibold border-b-2 border-b-transparent;
+}
+
+.navigationLinks .active {
+  @apply text-white font-semibold;
+}
