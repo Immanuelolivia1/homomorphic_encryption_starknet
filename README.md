@@ -1,6 +1,6 @@
 ## Inspiration
 ---
-Stash is a decentralized application (DApp) for secure data aggregation using homomorphic encryption on StarkNet. Below is a detailed description of the flow:
+The inspiration behind this project is to deliver a decentralized application (DApp) for secure data aggregation using homomorphic encryption on StarkNet. Below is a detailed description of the flow:
 
 ## DApp Flow:
 ---
@@ -57,6 +57,13 @@ Stash is a decentralized application (DApp) for secure data aggregation using ho
 
 This flow ensures that sensitive information is securely contributed, aggregated, and analyzed on StarkNet without the need to expose the actual data to the contract. The combination of homomorphic encryption and zero-knowledge proofs provides a robust privacy-preserving solution for secure data aggregation.
 
+## What's next for Stash?
+---
+I hope to keep building and adding awesome features to the build.
 
-This app has been deployed on vercel 
+## Deploy on Vercel
+---
+The easiest way to deploy your Dapp is to use the Vercel Platform from the creators of Next.js.
+
+[Here is a link to the deployed Dapp on Vercel](https://vercel.com/)
 
