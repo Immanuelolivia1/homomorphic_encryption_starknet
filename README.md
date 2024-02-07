@@ -1,6 +1,9 @@
-Stash is a decentralized application (DApp) for secure data aggregation using homomorphic encryption on StarkNet. here is a careful flow to ensure user privacy while contributing encrypted data. Below is a detailed description of the flow:
+## Inspiration
+---
+Stash is a decentralized application (DApp) for secure data aggregation using homomorphic encryption on StarkNet. Below is a detailed description of the flow:
 
-### DApp Flow:
+## DApp Flow:
+---
 
 #### 1. **User Onboarding:**
    - Users start by accessing the DApp through a web interface or StarkNet-compatible wallet.
@@ -53,3 +56,7 @@ Stash is a decentralized application (DApp) for secure data aggregation using ho
    - Users may have the option to request the deletion of their contributed encrypted data from the StarkNet contract, adhering to privacy concerns.
 
 This flow ensures that sensitive information is securely contributed, aggregated, and analyzed on StarkNet without the need to expose the actual data to the contract. The combination of homomorphic encryption and zero-knowledge proofs provides a robust privacy-preserving solution for secure data aggregation.
+
+
+This app has been deployed on vercel 
+
