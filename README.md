@@ -6,7 +6,7 @@ Stash is a decentralized application (DApp) for secure data aggregation using ho
    - Users start by accessing the DApp through a web interface or StarkNet-compatible wallet.
 
 #### 2. **StarkNet Wallet Integration:**
-   - Users connect their StarkNet-compatible wallets (such as (https://www.argent.xyz/argent-x/)[Argent X] or Braavos ) to the DApp for secure authentication and transaction signing.
+   - Users connect their StarkNet-compatible wallets (such as [https://www.argent.xyz/argent-x/](Argent X) or Braavos ) to the DApp for secure authentication and transaction signing.
 
 #### 3. **Homomorphic Encryption Setup:**
    - The DApp educates users about homomorphic encryption and guides them in encrypting their sensitive data locally using suitable cryptographic libraries.
