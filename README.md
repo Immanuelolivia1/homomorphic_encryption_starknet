@@ -60,7 +60,7 @@ This flow ensures that sensitive information is securely contributed, aggregated
 ## What's next for Stash?
 ---
 I hope to keep building and adding awesome features to the build.
-https://vercel.com/
+
 ## Deploy on Vercel
 ---
 The easiest way to deploy your Dapp is to use the [Vercel](https://vercel.com/) Platform from the creators of Next.js.
