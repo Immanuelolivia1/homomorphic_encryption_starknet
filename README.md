@@ -63,7 +63,7 @@ I hope to keep building and adding awesome features to the build.
 
 ## Deploy on Vercel
 ---
-The easiest way to deploy your Dapp is to use the Vercel Platform from the creators of Next.js.
+The easiest way to deploy your Dapp is to use the [Vercel](https://vercel.com/) Platform from the creators of Next.js.
 
-[Here is a link to the deployed Dapp on Vercel](https://vercel.com/)
+[Here is a link to the deployed Dapp on Vercel](https://stash-delta.vercel.app/)
 
